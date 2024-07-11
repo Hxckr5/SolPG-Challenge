@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("8MaTQ4rf5QpqnDRcaYwJhW4LKRniaJUoEBFaaUkqin2R");
+declare_id!("YourProgramIDHere");
 
 #[program]
 pub mod moneybox {
